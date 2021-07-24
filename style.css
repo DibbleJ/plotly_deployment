@@ -1,0 +1,15 @@
+.jumbotron {
+    background-image: url("lab2.jpg");
+    background-color: #cccccc;
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+#header-text {
+    background-color: rgba(188, 197, 255, 0.8);
+}
+
+body {
+    background-color: rgba(81, 123, 192);
+    font-family: Didot, serif;
+}
