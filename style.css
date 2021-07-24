@@ -13,3 +13,7 @@ body {
     background-color: rgba(81, 123, 192);
     font-family: Didot, serif;
 }
+
+#bubble {
+    margin-top: 20px;
+}
