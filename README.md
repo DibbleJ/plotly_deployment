@@ -1,5 +1,4 @@
-# plotly_deployment
-
+# Belly Button Biodiversity
 ## Overview
   In an effort to find the most suitable flavor for meat alternatives, Roza and her team are investigating belly-button bacterial data from many volunteers. The information for each volunteer is presented in this dynamic javascript dashboard. The Operational Taxonimic Unit (OTU) is the terminology used to classify bacteria in this context.
 ## Results
